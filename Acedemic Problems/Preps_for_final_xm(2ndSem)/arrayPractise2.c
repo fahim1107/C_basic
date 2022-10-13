@@ -4,10 +4,10 @@ int main(){
     int n,i;
     scanf("%d",&n);
     for(i=0; i<n; i++){
-        scanf("%lf",&array[i]);
+        scanf("%f",&array[i]);
     }
     for(i=0;i<n;i++){
-        printf("%.2lf",array[i]);
+        printf("%.2f ",array[i]);
     }
     return 0;
 }
