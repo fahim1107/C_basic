@@ -2,6 +2,6 @@
 int main(){
     int num, prime=1;
     printf("Enter a number: ");
-    scnaf()
+    scnaf
     return 0;
 }
